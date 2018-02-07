@@ -5101,7 +5101,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDStdArrays.edl
+  0 NDStdArrays.edl
 }
 menuLabel {
   0 image1:
@@ -5131,7 +5131,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDProcess.edl
+  0 NDProcess.edl
 }
 menuLabel {
   0 Proc1:
@@ -5161,7 +5161,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTransform.edl
+  0 NDTransform.edl
 }
 menuLabel {
   0 Trans1:
@@ -5191,7 +5191,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDColorConvert.edl
+  0 NDColorConvert.edl
 }
 menuLabel {
   0 CC1:
@@ -5221,7 +5221,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDColorConvert.edl
+  0 NDColorConvert.edl
 }
 menuLabel {
   0 CC2:
@@ -5251,7 +5251,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDOverlay.edl
+  0 NDOverlay.edl
 }
 menuLabel {
   0 Over1:
@@ -5281,7 +5281,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDROI.edl
+  0 NDROI.edl
 }
 menuLabel {
   0 ROI1:
@@ -5311,7 +5311,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDROI.edl
+  0 NDROI.edl
 }
 menuLabel {
   0 ROI2:
@@ -5341,7 +5341,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDROI.edl
+  0 NDROI.edl
 }
 menuLabel {
   0 ROI3:
@@ -5371,7 +5371,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDROI.edl
+  0 NDROI.edl
 }
 menuLabel {
   0 ROI4:
@@ -5401,7 +5401,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDStats.edl
+  0 NDStats.edl
 }
 menuLabel {
   0 Stats1:
@@ -5431,7 +5431,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDStats.edl
+  0 NDStats.edl
 }
 menuLabel {
   0 Stats2:
@@ -5461,7 +5461,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDStats.edl
+  0 NDStats.edl
 }
 menuLabel {
   0 Stats3:
@@ -5491,7 +5491,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDStats.edl
+  0 NDStats.edl
 }
 menuLabel {
   0 Stats4:
@@ -5561,7 +5561,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDStats.edl
+  0 NDStats.edl
 }
 menuLabel {
   0 Stats5:
@@ -5631,7 +5631,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDROIStat.edl
+  0 NDROIStat.edl
 }
 menuLabel {
   0 ROI Statistics #1
@@ -5914,7 +5914,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDFileNetCDF.edl
+  0 NDFileNetCDF.edl
 }
 menuLabel {
   0 netCDF1:
@@ -5944,7 +5944,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDFileTIFF.edl
+  0 NDFileTIFF.edl
 }
 menuLabel {
   0 TIFF1:
@@ -5974,7 +5974,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDFileJPEG.edl
+  0 NDFileJPEG.edl
 }
 menuLabel {
   0 JPEG1:
@@ -6004,7 +6004,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDFileNexus.edl
+  0 NDFileNexus.edl
 }
 menuLabel {
   0 Nexus1:
@@ -6034,7 +6034,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDFileMagick.edl
+  0 NDFileMagick.edl
 }
 menuLabel {
   0 Magick1:
@@ -6064,7 +6064,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDFileHDF5.edl
+  0 NDFileHDF5.edl
 }
 menuLabel {
   0 HDF1:
@@ -6152,7 +6152,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDCircularBuff.edl
+  0 NDCircularBuff.edl
 }
 menuLabel {
   0 CB1:
@@ -6227,8 +6227,8 @@ buttonLabel "More"
 numPvs 4
 numDsps 2
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDPluginAttribute.edl
-  1 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDPluginAttribute8.edl
+  0 NDPluginAttribute.edl
+  1 NDPluginAttribute8.edl
 }
 menuLabel {
   0 Attr1:

@@ -1036,7 +1036,7 @@ buttonLabel "Help"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDCircularBuffHelp.edl
+  0 NDCircularBuffHelp.edl
 }
 menuLabel {
   0 Help

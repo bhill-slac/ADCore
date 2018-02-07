@@ -1834,7 +1834,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series
@@ -1863,7 +1863,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series
@@ -1892,7 +1892,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series
@@ -1921,7 +1921,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series
@@ -1950,7 +1950,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series
@@ -1979,7 +1979,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series
@@ -2008,7 +2008,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series
@@ -2037,7 +2037,7 @@ icon
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/NDTimeSeries.edl
+  0 NDTimeSeries.edl
 }
 menuLabel {
   0 Time series

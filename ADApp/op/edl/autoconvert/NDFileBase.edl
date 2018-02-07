@@ -1637,7 +1637,7 @@ buttonLabel "Help"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 /home/oxygen/MOONEY/epics/git/areaDetector/ADCore/ADApp/op/adl/createDirectoryHelp.edl
+  0 createDirectoryHelp.edl
 }
 menuLabel {
   0 
